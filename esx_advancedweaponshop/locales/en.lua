@@ -22,4 +22,4 @@ Locales['en'] = {
 	['wea_assault'] = 'Assault Rifles',
 	['wea_lmg'] = 'Light Machine Guns',
 	['wea_sniper'] = 'Sniper Rifles',
-}
+        }
